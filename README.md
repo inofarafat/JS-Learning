@@ -1,2 +1,2 @@
 # JS-Learning
-A code repo for JS series at chai aur code yt
+Learning JavaScript for my future
